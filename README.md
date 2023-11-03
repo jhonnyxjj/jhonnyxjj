@@ -11,7 +11,7 @@
 
 
 - 💻 - Mobile Developer 📱
-- ☕ - knowledges Dart, Flutter, Clean Code, FireBase, Clean Architecture, SOLID
+- ☕ - knowledges Dart, Flutter, Clean Code, C#, Clean Architecture, SOLID, JAVA
 - 👨‍💻 - "Desperte sua grandiosidade que aguarda além das limitações ".
 
 <div align="center">
