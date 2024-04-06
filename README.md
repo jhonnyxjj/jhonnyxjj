@@ -6,7 +6,7 @@
 
 #### Rede Sociais!
 
-[![Linkedin: Jonathan costta](https://img.shields.io/badge/-jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/jonathan-martin555)
+[![Linkedin: Jonathan costta](https://img.shields.io/badge/-jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([www.linkedin.com/in/jonathan-martin555](https://www.linkedin.com/in/jonathan-martin555/))
 [![Instagram:jhonnyxjj](https://img.shields.io/badge/-jhonnyxjj-DF0174?style=flat-square&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](https://www.instagram.com/jhonnyxjj/)
 
 
