@@ -13,12 +13,6 @@
 - 💻 - Mobile Developer 📱
 - ☕ - knowledges Dart, Flutter, C#, JAVASCRIPT, JAVA
 - 👨‍💻 - "Desperte sua grandiosidade que aguarda além das limitações ".
-
-<div align="center">
-  <a href="https://github.com/jhonnyxjj">
-    <img align="center" min-width="450px" max-width="450px" width="430px" src="https://github-readme-stats.vercel.app/api?username=jhonnyxjj&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=false" />
-     </a>
-</div> 
     
 
 ## **Languages and Tools:**  
