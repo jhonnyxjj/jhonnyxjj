@@ -11,7 +11,7 @@
 
 
 - 💻 - Mobile Developer 📱
-- ☕ - knowledges Dart, Flutter, C#, JAVASCRIPT, JAVA
+- ☕ - knowledges Dart, Flutter, JAVASCRIPT, JAVA
 - 👨‍💻 - "Desperte sua grandiosidade que aguarda além das limitações ".
     
 
