@@ -20,7 +20,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![JavaScript]([https://img.shields.io/badge/JavaScript-yellow](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript))
 
 <h1>
 </h1>
