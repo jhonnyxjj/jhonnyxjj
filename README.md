@@ -1,5 +1,5 @@
 <h1 align="center">
-	🚀📱 Welcome to my GitHub 📱🚀
+	🚀 Welcome to my GitHub 🚀
 </h1>
 
  Hello, my name is Jonathan costa, also known as jhonnyxjj.
