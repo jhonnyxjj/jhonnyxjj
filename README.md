@@ -1,29 +1,42 @@
 <h1 align="center">
-	🚀 Welcome to my GitHub 🚀
+ 🚀 Bem-vindo ao meu GitHub!
 </h1>
 
- Hello, my name is Jonathan costa, also known as jhonnyxjj.
-
-#### Rede Sociais!
-
-[![Linkedin: Jonathan costta](https://img.shields.io/badge/-jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/jonathan-martin555/)
+Olá, me chamo **Jonathan** e sou estudante de **Engenharia de Software**, sempre em busca de aprendizado e evolução contínua no desenvolvimento **Full Stack**. Estou focado no aprimoramento das minhas habilidades em **JavaScript**, **TypeScript**, **Node.js**, e outras tecnologias.
 
 
-- 💻 - Mobile Developer 📱
-- ☕ - knowledges Dart, Flutter, JAVASCRIPT, JAVA
-- 👨‍💻 - "Desperte sua grandiosidade que aguarda além das limitações ".
-    
-
-## **Languages and Tools:**  
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/Node.js-brightgreen?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![MySQL Badge](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+🛠️ **Habilidades Técnicas**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 
 
+## 🎯 **O que você encontra aqui?**
+
+- **Projetos práticos** e aplicações para fortalecer meu aprendizado.  
+- **Estudos e testes** com novas tecnologias, frameworks e ferramentas.  
+- Meu progresso no desenvolvimento **Full Stack**, buscando sempre melhorar e expandir minhas habilidades.
+
+## 📫 **Como entrar em contato**
+
+- [LinkedIn](www.linkedin.com/in/jonathanmartinsx)
+- [Email](mailto:jonathancosttasx@gmail.com)
+
+---
+
+### 🌱 **Objetivos e Visão**
+
+Atualmente, estou em um processo contínuo de evolução e focado em:
+
+- Aprender e aplicar **TypeScript** no desenvolvimento de projetos reais.  
+- Melhorar minhas habilidades em **Node.js** e **React** para criar soluções mais robustas e eficientes.  
+- Explorar mais sobre **Flutter** e **Dart** para desenvolvimento mobile.
+
+**Acompanhe minha jornada e aprenda comigo!**
+
+---
+
+
+💬 **Feedback e contribuições são sempre bem-vindos!**
 
 
 <h1>
