@@ -18,7 +18,8 @@
 
 ## 📫 **Como entrar em contato**
 
-- [LinkedIn](www.linkedin.com/in/jonathanmartinsx)
+- [LinkedIn](https://www.linkedin.com/in/jonathanmartinsx/)
+
 - [Email](mailto:jonathancosttasx@gmail.com)
 
 ---
