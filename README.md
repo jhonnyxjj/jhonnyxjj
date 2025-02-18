@@ -2,7 +2,7 @@
  🚀 Bem-vindo ao meu GitHub!
 </h1>
 
-Olá, me chamo **Jonathan** e sou estudante de **Engenharia de Software**, sempre em busca de aprendizado e evolução contínua no desenvolvimento **Full Stack**. Estou focado no aprimoramento das minhas habilidades em **JavaScript**, **TypeScript**, **Node.js**, e outras tecnologias.
+👋 Olá, me chamo **Jonathan** e sou estudante de **Engenharia de Software**, sempre em busca de aprendizado e evolução contínua no desenvolvimento **Full Stack**. Estou focado no aprimoramento das minhas habilidades em **JavaScript**, **TypeScript**, **Node.js**, e outras tecnologias.
 
 
 🛠️ **Habilidades Técnicas**  
