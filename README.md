@@ -9,7 +9,8 @@ Engenheiro de Software com foco em Backend e Arquitetura de Sistemas. Tenho curi
 ---
 
  🧠 **Tech Stack**  
- 
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="24">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="24">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" height="24">
@@ -26,6 +27,7 @@ Engenheiro de Software com foco em Backend e Arquitetura de Sistemas. Tenho curi
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="24">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" height="24">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="24">
+</p>
 
 ---
 
